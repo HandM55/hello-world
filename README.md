@@ -1,2 +1,3 @@
 # hello-world
-My first 
+My name is Hayato
+I am learnig Github
